@@ -4,7 +4,7 @@ This is the place to submit talk proposals for the Open Tech School Learners Mee
 
 You can suggest a topic you want to talk about, or a topic you want to hear about.
 
-Please submit your proposal [here](https://github.com/OpenTechSchool/beginners-meetup/issues).
+Please submit your proposal by submitting an issue [here](https://github.com/OpenTechSchool/learners-meetup-berlin/issues).
 
 Feel free to also submit comments, questions, +1's.
 
