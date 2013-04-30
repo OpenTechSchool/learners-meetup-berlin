@@ -1,6 +1,6 @@
 Hi there!
 
-This is the place to submit talk proposals for the [Open Tech School Beginners Meetup](http://www.meetup.com/ots-beginners-meetup)
+This is the place to submit talk proposals for the Open Tech School Learners Meetup Berlin
 
 You can suggest a topic you want to talk about, or a topic you want to hear about.
 
